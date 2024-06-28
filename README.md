@@ -1,5 +1,5 @@
 Instrucciones:
-Escribe una función que calcula en cuántos años tendrá el doble de edad el padre o cuantos años han pasado desde que tuvo el doble.
+ 
 
 Input:padre: 36, hijo: 7
 padre: 55, hijo: 30
@@ -19,4 +19,4 @@ Edad del padre: 36 y edad del hijo: 7
 Edad del padre: 55 y edad del hijo: 30
 Edad del padre: 42 y edad del hijo: 21
 Edad del padre: 22 y edad del hijo: 1
-Edad del padre: 29 y edad del hijo: 0
+Edad del padre: 29 y edad del hijo: 0   
