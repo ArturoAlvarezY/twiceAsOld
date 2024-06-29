@@ -16,7 +16,7 @@ Requisitos:
 Obligatorio el uso de Vitest para testear la function
 Tests a realizar:
 Edad del padre: 36 y edad del hijo: 7
-Edad del padre: 55 y edad del hijo: 30
+Edad del padre: 55 y edad del hijo: 30 
 Edad del padre: 42 y edad del hijo: 21
 Edad del padre: 22 y edad del hijo: 1
 Edad del padre: 29 y edad del hijo: 0   
